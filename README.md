@@ -48,6 +48,8 @@ I am an IT student at University of South Australia <img src="https://media.giph
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnmai-mabel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://myreadme.vercel.app/api/embed/nnmai-mabel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nnmai0606)](https://github.com/nnmai-mabel/github-readme)
 <!--
 **nnmai-mabel/nnmai-mabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
